@@ -1,35 +1,99 @@
-MIT License
+LICENÇA DE USO DE SOFTWARE – ENVIAGORA
 
-Copyright (c) 2025 Joab Marques
+Copyright (c) 2025 EnviaAgora
+Autor: Joab Marques
+Todos os direitos reservados.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este software é de propriedade exclusiva do autor e da marca EnviaAgora.
+A disponibilização do código-fonte, total ou parcial, não caracteriza
+software livre nem open source.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. CONCESSÃO DE LICENÇA
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+É concedida ao usuário uma licença limitada, não exclusiva,
+intransferível e revogável para utilizar este software somente mediante
+licença válida emitida pelo autor.
+
+A licença autoriza apenas o uso do software nos limites definidos
+pela ativação, podendo estar vinculada a domínio, conta, blog,
+identificador técnico ou outro meio de validação.
+
+2. RESTRIÇÕES
+
+É EXPRESSAMENTE PROIBIDO, sem autorização prévia e por escrito do autor:
+
+a) Copiar, redistribuir, revender, sublicenciar ou disponibilizar
+   este software a terceiros;
+
+b) Utilizar o software sem uma licença válida;
+
+c) Remover ou alterar avisos de autoria, licenciamento ou proteção;
+
+d) Modificar, adaptar, descompilar, fazer engenharia reversa ou
+   criar obras derivadas com finalidade de redistribuição;
+
+e) Publicar este software como se fosse próprio ou sob outra marca.
+
+3. CÓDIGO-FONTE VISÍVEL
+
+O fato de o código-fonte estar acessível em repositórios públicos
+(GitHub, GitHub Pages, ou similares) não concede qualquer direito
+de uso, cópia ou redistribuição além do que está expressamente
+previsto nesta licença.
+
+4. ATIVAÇÃO E VALIDAÇÃO
+
+O software pode utilizar mecanismos de ativação, verificação remota,
+validação por identificador técnico, chaves de licença ou outros meios
+para garantir o uso autorizado.
+
+Tentativas de burlar, remover ou contornar esses mecanismos
+configuram uso indevido.
+
+5. GARANTIA E RESPONSABILIDADE
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM QUALQUER
+GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO,
+ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO
+E NÃO VIOLAÇÃO.
+
+EM NENHUMA HIPÓTESE O AUTOR OU A MARCA ENVIAGORA SERÃO RESPONSÁVEIS
+POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS OU
+CONSEQUENCIAIS DECORRENTES DO USO OU DA IMPOSSIBILIDADE DE USO
+DESTE SOFTWARE.
+
+6. RESCISÃO
+
+O não cumprimento dos termos desta licença resultará na rescisão
+imediata do direito de uso, sem aviso prévio, ficando o usuário
+obrigado a cessar imediatamente qualquer utilização do software.
+
+7. LEGISLAÇÃO APLICÁVEL
+
+Esta licença é regida pelas leis da República Federativa do Brasil.
+Fica eleito o foro da comarca do autor para dirimir quaisquer
+controvérsias decorrentes deste instrumento.
+
+---
+
+EnviaAgora
+Ecossistema de soluções para delivery e catálogos digitais
+https://enviaagora.com.br
 
 
 /*
  EnviaAgora
- Ecossistema de soluções open source para delivery e catálogos digitais
+ Ecossistema de soluções para delivery e catálogos digitais
 
  Projeto: Food Delivery
  Autor: Joab Marques
- Licença: MIT
+ © 2025 EnviaAgora
 
- Repositórios:
+ Licença de uso:
+ O uso deste software está condicionado
+ a uma licença válida emitida pelo autor.
+
+ Repositórios oficiais:
  - https://github.com/enviaagora/fooddelivery
  - https://github.com/enviaagora/catalogodigital
 
