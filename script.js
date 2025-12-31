@@ -1,5 +1,27 @@
 //<![CDATA[
 
+
+
+/*
+ EnviaAgora
+ Ecossistema de soluções open source para delivery e catálogos digitais
+
+ Projeto: Food Delivery
+ Autor: Joab Marques
+ Licença: MIT
+
+ Repositórios:
+ - https://github.com/enviaagora/fooddelivery
+ - https://github.com/enviaagora/catalogodigital
+
+ Origem do conceito:
+ - https://github.com/eujoabmarques/Blogger-Delivery
+*/
+
+
+
+
+
 /* === SearchFab (bind robusto, sem tocar no CSS) =================== */
 (function(){
   // evita bind duplicado (loader, re-dispatch, etc.)
